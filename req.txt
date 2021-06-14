@@ -1,0 +1,3 @@
+//to use stripe in the app
+npm i @stripe/stripe-js
+npm i @stripe/react-stripe-js
